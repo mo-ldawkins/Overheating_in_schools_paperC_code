@@ -1,0 +1,2 @@
+import School_climada_risk_framework_CIBSE_calling
+School_climada_risk_framework_CIBSE_calling.run_all()
